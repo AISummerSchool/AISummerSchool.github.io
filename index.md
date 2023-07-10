@@ -6,11 +6,8 @@ layout: default
 
 The course will provide an overview of fundamental concepts and algorithms in machine learning. Mathematical and coding exercises will be provided to deepen understanding of these concepts and algorithms. The topics include:
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Instructor
+* Dr. Adel Bibi (Email: adel.bibi@eng.ox.ac.uk)
 
 ### Header 3
 
