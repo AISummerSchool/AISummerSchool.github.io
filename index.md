@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Introduciton
 
 The course will provide an overview of fundamental concepts and algorithms in machine learning. Mathematical and coding exercises will be provided to deepen understanding of these concepts and algorithms. The topics include:
