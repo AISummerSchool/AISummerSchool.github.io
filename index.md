@@ -7,27 +7,25 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 ## Instructor
 * Dr. Adel Bibi (Email: adel.bibi@eng.ox.ac.uk)
 
-### Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Course Intro & Background Review
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+* Course Introduction
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+* Colab/Markdown/latex intro [env intro]
 
-```
-The final element.
-```
+* Coding exercise: Python Basics [Numpy] [Strings] [Lists] [Dictionaries] [Tuples]
+
+* Background knowledge review: [math review]
+
+##  Break
+Coffee break: 10:30 am - 11:00 am
+
+## Syllabus
+
+* We will go through the following content in 5 days. We will use [google colab] as a platform for exercises.
+
+* NOTE 1: for each colab file below, you should make a copy in your own google drive to edit & run.
+
+* NOTE 2: some questions are “optional”—you are suggested but not required to do.
+
