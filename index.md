@@ -12,7 +12,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 
 * Course Introduction
 
-* Colab/Markdown/latex intro [env intro]
+* Colab/Markdown/latex intro [env intro](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing)
 
 * Coding exercise: Python Basics [Numpy] [Strings] [Lists] [Dictionaries] [Tuples]
 
