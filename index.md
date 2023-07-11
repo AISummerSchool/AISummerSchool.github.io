@@ -43,7 +43,7 @@ Coffee break: 10:30 am - 11:00 am
 
 * Quick review on object-oriented programming [OOP reading]
 
-## Neural networks (prepared by Dr. Jindong Gu)
+## Neural networks
 
 * Slides for Neural networks [PDF]
 
@@ -55,7 +55,7 @@ Coffee break: 10:30 am - 11:00 am
 
 * Convolutional Neural Network Pytorch [Exercise] [sol]
 
-### Optimization (prepared by Dr. Alasdair Paren)
+### Optimization
   
 * Optimization Lecture [slides]
  
@@ -64,4 +64,4 @@ Coffee break: 10:30 am - 11:00 am
 * Exercise 5 [Stochastic Optimization - Classification]
 
 ### Acknowledgement
-python basics are adapted from the previous instructor Naeemullah Khan’s course.
+python basics are adapted from x
