@@ -23,7 +23,7 @@ Coffee break: 10:30 am - 11:00 am
 
 ## Syllabus
 
-* We will go through the following content in 5 days. We will use [google colab] as a platform for exercises.
+* We will go through the following content in 5 days. We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises.
 
 * NOTE 1: for each colab file below, you should make a copy in your own google drive to edit & run.
 
