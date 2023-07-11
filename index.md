@@ -29,3 +29,39 @@ Coffee break: 10:30 am - 11:00 am
 
 * NOTE 2: some questions are “optional”—you are suggested but not required to do.
 
+
+## Regression/classification
+* Linear Models Lecture [slides]
+
+* Linear regression, [Exercise 1] [Exercise 1-conti]
+
+* Probability interpretation of regression
+
+* Logistic regression, [Exercise 2]
+
+* Generalized linear models (GLM), [Exercise 3]
+
+* Quick review on object-oriented programming [OOP reading]
+
+## Neural networks (prepared by Dr. Jindong Gu)
+
+* Slides for Neural networks [PDF]
+
+* Neural Network Numpy [Exercise]
+
+* Pytorch Tutorial [Tutorial]
+
+* Neural Network Pytorch [Exercise] [sol]
+
+* Convolutional Neural Network Pytorch [Exercise] [sol]
+
+### Optimization (prepared by Dr. Alasdair Paren)
+  
+* Optimization Lecture [slides]
+ 
+* Exercise 4 [Non-Stochastic Optimization - Regression]
+
+* Exercise 5 [Stochastic Optimization - Classification]
+
+### Acknowledgement
+python basics are adapted from the previous instructor Naeemullah Khan’s course.
