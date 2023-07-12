@@ -29,6 +29,24 @@ Coffee break: 10:30 am - 11:00 am
 
 * NOTE 2: some questions are “optional”—you are suggested but not required to do.
 
+## Day 1: July 30th, 2023
+* Applications of AI [Slides](https://docs.google.com/presentation/d/1LMnpF8G8BmttVlG22AAL3bpVYPjjyGuTvM67_YU_drM/edit?usp=sharing)
+
+* Linear and non-linear regression [Slides](https://docs.google.com/presentation/d/1NWlQGnMTl_LLMUHhFIyfeeSZ2CA9GFzCtXvIlX2tHyA/edit?usp=sharing)
+
+*  Logistic regression [Slides](https://docs.google.com/presentation/d/1U7vSdTIBkPDe7YIQahcCwMhym2THBIaj_0vzWZ_dkaQ/edit?usp=sharing)
+
+## Day 2: August 1st, 2023
+
+*  Neural Networks [Slides](https://docs.google.com/presentation/d/1Hn60l775ITw2Sk7sZXSDQGPQK0dq8KX3yDw3fyA8RbQ/edit?usp=sharing)
+
+## Day 3: August 2nd, 2023
+
+*  Convolutional Neural Networks (1) [Slides](https://docs.google.com/presentation/d/15YykQY2zD_vB0s3wAvQJ33XE74V-NvB9hpsUQXUfRO8/edit?usp=sharing)
+
+## Day 4: August 3rd, 2023
+
+* Convolutional Neural Networks (2) [Slides](https://docs.google.com/presentation/d/15YykQY2zD_vB0s3wAvQJ33XE74V-NvB9hpsUQXUfRO8/edit?usp=sharing)
 
 ## Regression/classification
 * Linear Models Lecture [slides]
