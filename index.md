@@ -30,7 +30,8 @@ Coffee break: 10:30 am - 11:00 am
 * NOTE 2: some questions are “optional”—you are suggested but not required to do.
 
 ## Day 1: July 30th, 2023
-* Applications of AI [[Slides]](https://docs.google.com/presentation/d/1LMnpF8G8BmttVlG22AAL3bpVYPjjyGuTvM67_YU_drM/edit?usp=sharing)
+* Applications of AI   <a href="https://docs.google.com/presentation/d/1LMnpF8G8BmttVlG22AAL3bpVYPjjyGuTvM67_YU_drM/edit?usp=sharing"> click me </a>
+
 
 * Linear and non-linear regression [[Slides]](https://docs.google.com/presentation/d/1NWlQGnMTl_LLMUHhFIyfeeSZ2CA9GFzCtXvIlX2tHyA/edit?usp=sharing)
 
