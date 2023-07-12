@@ -29,6 +29,36 @@ The coffee break over the four days will always be from 10:30AM to 11:00AM.
 
 * NOTE 2: some questions are “optional”—you are suggested but not required to do.
 
+## Outcomes and Break down of the Course
+### Day 1: Foundations of Machine Learning
+* Introduction to machine learning and its applications
+* Supervised learning: classification and regression
+* Unsupervised learning: clustering and dimensionality reduction
+* Model evaluation and selection
+* Practical: Implementing a simple classification algorithm using PyTorch
+
+
+### Day 2: Deep Learning and Optimization
+* Introduction to neural networks
+* Feedforward neural networks and backpropagation
+* Optimization techniques: stochastic gradient descent, momentum, and adaptive learning rates
+* Regularization techniques: L1, L2, dropout, and batch normalization
+* Practical: Building a deep neural network for image classification using PyTorch
+  
+### Day 3: Computer Vision and Convolutional Neural Networks
+* Introduction to computer vision and its applications
+* Image processing techniques: filtering, segmentation, feature extraction
+* Convolutional neural networks for computer vision
+* Transfer learning using pre-trained models
+   Practical: Fine-tuning a pre-trained convolutional neural network for image classification using PyTorch
+
+### Day 4: Advanced Topics in Deep Learning(tentative)
+* Autoencoders
+* Variational Auto Encoders
+* Adversarial Machine Learning
+* Practical: Implementing attacks on neural networks
+
+
 ## Day 1: July 30th, 2023
 * Applications of AI   [[Slides]](https://docs.google.com/presentation/d/1LMnpF8G8BmttVlG22AAL3bpVYPjjyGuTvM67_YU_drM/edit?usp=sharing)
 
