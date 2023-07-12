@@ -48,37 +48,6 @@ Coffee break: 10:30 am - 11:00 am
 
 * Convolutional Neural Networks (2) [[Slides]](https://docs.google.com/presentation/d/15YykQY2zD_vB0s3wAvQJ33XE74V-NvB9hpsUQXUfRO8/edit?usp=sharing)
 
-## Regression/classification
-* Linear Models Lecture [slides]
-
-* Linear regression, [Exercise 1] [Exercise 1-conti]
-
-* Probability interpretation of regression
-
-* Logistic regression, [Exercise 2]
-
-* Generalized linear models (GLM), [Exercise 3]
-
-* Quick review on object-oriented programming [OOP reading]
-
-## Neural networks
-
-* Slides for Neural networks [PDF]
-
-* Neural Network Numpy [Exercise]
-
-* Pytorch Tutorial [Tutorial]
-
-* Neural Network Pytorch [Exercise] [sol]
-
-* Convolutional Neural Network Pytorch [Exercise] [sol]
-
-### Optimization
-  
-* Optimization Lecture [slides]
- 
-* Exercise 4 [Non-Stochastic Optimization - Regression]
-
 * Exercise 5 [Stochastic Optimization - Classification]
 
 ### Acknowledgement
