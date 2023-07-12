@@ -51,4 +51,4 @@ Coffee break: 10:30 am - 11:00 am
 * Exercise 5 [Stochastic Optimization - Classification]
 
 ### Acknowledgement
-python basics are adapted from x
+**Fill in the acknowledgments**
