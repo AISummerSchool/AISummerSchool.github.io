@@ -19,7 +19,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Background knowledge review: [math review]
 
 ##  Break
-Coffee break: 10:30 am - 11:00 am
+The coffee break over the four days will always be from 10:30AM to 11:00AM.
 
 ## Syllabus
 
