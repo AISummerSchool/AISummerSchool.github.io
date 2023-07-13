@@ -35,12 +35,11 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 ## Instructor
 * Dr. Adel Bibi (Email: adel.bibi@eng.ox.ac.uk)
 
-
 ## Background Review
 
 * Colab/Markdown/latex intro [[env intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing)
 
-* Coding exercise: Python Basics [[Numpy]](https://colab.research.google.com/drive/1N_LQdkRL-PrQqtrUtKOXDDRxKW7Whioh?usp=sharing) [[Strings]](https://colab.research.google.com/drive/16QB0e6reXr0aYg3QMJbb2Kjpd93cZ1qJ?usp=sharing) [[Lists]](https://colab.research.google.com/drive/1cHDaCeHUbNzV-zHpYPRBMNohL4dbxeqB?usp=sharing) [[Dictionaries]](https://colab.research.google.com/drive/1pofof5pxzbliUlgZOKAA5LdA6YMqGGuK?usp=sharing) [[Tuples]](https://colab.research.google.com/drive/1nqqTPS9GZYyQ9rdCPbMZFWoKdmjtFZv9?usp=sharing)
+* Coding exercise: Python Basics [[Numbers]](https://drive.google.com/file/d/1jwKcCfSYo0cB5miyBigqJ7B707VG6Sup/view?usp=sharing) [[Strings]](https://drive.google.com/file/d/10r5pCMSn-Lr_uet89PWRJ2vVaw6T8DYY/view?usp=sharing) [[Lists]](https://drive.google.com/file/d/1xdjetPYlMnRRBYRLD3wbU0l7jte7mkRW/view?usp=sharing) [[Dictionaries]](https://drive.google.com/file/d/1cWENNmiT6uIncOZ-B3NegMGkT1ocpkeM/view?usp=sharing) [[Tuples]](https://drive.google.com/file/d/1wlZkdZ41UOrIrPOyO97V0QIGDSoSPIGz/view?usp=sharing) [[IF,FOR, and While]](https://drive.google.com/file/d/1_A8Fi7qVS1wYSOHKnBdIwuhAZMqSkyKf/view?usp=sharing) [[Numpy]](https://drive.google.com/file/d/1dyWqkvfsNz6y7pGeoC4hdkshnaJ7U80p/view?usp=sharing)
 
 * Background knowledge review: [math review]
 
