@@ -24,7 +24,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Models zoo
 * Challenges: Transfer learning
 * Practical: Fine-tuning a pre-trained convolutional neural network for image classification using PyTorch
-* Challenges Adversarial attacks
+* Challenges: Adversarial attacks
 * Practical: Implementing attacks on neural networks
 
 ## Instructor
