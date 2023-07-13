@@ -2,57 +2,50 @@
 layout: default
 ---
 
-The course will provide an overview of fundamental concepts and algorithms in machine learning. Mathematical and coding exercises will be provided to deepen understanding of these concepts and algorithms. The Outcomes and Break down of the Course
+The course will provide an overview of fundamental concepts and algorithms in machine learning. Mathematical and coding exercises will be provided to deepen understanding of these concepts and algorithms.
 
-### Day 1: Foundations of Machine Learning
+## Material
+
 * Introduction to machine learning and its applications
-* Supervised learning: classification and regression
-* Unsupervised learning: clustering and dimensionality reduction
-* Model evaluation and selection
+* Supervised learning: linear and nonlinear regression
+* Supervised learning: logistic regression and multi-class classification 
 * Practical: Implementing a simple classification algorithm using PyTorch
-
-
-### Day 2: Deep Learning and Optimization
 * Introduction to neural networks
 * Feedforward neural networks and backpropagation
-* Optimization techniques: stochastic gradient descent, momentum, and adaptive learning rates
 * Regularization techniques: L1, L2, dropout, and batch normalization
 * Practical: Building a deep neural network for image classification using PyTorch
-  
-### Day 3: Computer Vision and Convolutional Neural Networks
-* Introduction to computer vision and its applications
-* Image processing techniques: filtering, segmentation, feature extraction
-* Convolutional neural networks for computer vision
-* Transfer learning using pre-trained models
-   Practical: Fine-tuning a pre-trained convolutional neural network for image classification using PyTorch
-
-### Day 4: Advanced Topics in Deep Learning(tentative)
-* Autoencoders
-* Variational Auto Encoders
-* Adversarial Machine Learning
+* Introduction to convolutional neural networks for computer vision
+* Image representations
+* Convolutional operators and kernels, max pooling, dense layers, depth vs width
+* Dimension calculations and parameter count
+* Practical: Implementing a training loop for and building the your first convolutional network
+* Popular datasets
+* Models zoo
+* Challenges: Transfer learning
+* Practical: Fine-tuning a pre-trained convolutional neural network for image classification using PyTorch
+* Challenges Adversarial attacks
 * Practical: Implementing attacks on neural networks
 
 ## Instructor
 * Dr. Adel Bibi (Email: adel.bibi@eng.ox.ac.uk)
 
+
+##  Notes
+
+* NOTE 1: We will go through the following content in 4 days. We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises.
+
+* NOTE 2: for each colab file below, with a preappended title ``Exercise: ``, you should make a copy in your own google drive to edit & run.
+
+* NOTE 3: The coffee break over the four days will always be from 10:30AM to 11:00AM.
+
+
 ## Background Review
 
 * Colab/Markdown/latex intro [[env intro]](https://colab.research.google.com/drive/1DHVIdXVouXhQmnusmR-JLGBqT2_TsxCF?usp=sharing)
 
-* Coding exercise: Python Basics [[Numbers]](https://drive.google.com/file/d/1jwKcCfSYo0cB5miyBigqJ7B707VG6Sup/view?usp=sharing) [[Strings]](https://drive.google.com/file/d/10r5pCMSn-Lr_uet89PWRJ2vVaw6T8DYY/view?usp=sharing) [[Lists]](https://drive.google.com/file/d/1xdjetPYlMnRRBYRLD3wbU0l7jte7mkRW/view?usp=sharing) [[Dictionaries]](https://drive.google.com/file/d/1cWENNmiT6uIncOZ-B3NegMGkT1ocpkeM/view?usp=sharing) [[Tuples]](https://drive.google.com/file/d/1wlZkdZ41UOrIrPOyO97V0QIGDSoSPIGz/view?usp=sharing) [[IF,FOR, and While]](https://drive.google.com/file/d/1_A8Fi7qVS1wYSOHKnBdIwuhAZMqSkyKf/view?usp=sharing) [[Numpy]](https://drive.google.com/file/d/1dyWqkvfsNz6y7pGeoC4hdkshnaJ7U80p/view?usp=sharing)
+* Coding exercise: Python Basics [[Exercise: Numbers]](https://drive.google.com/file/d/1jwKcCfSYo0cB5miyBigqJ7B707VG6Sup/view?usp=sharing) [[Exercise: Strings]](https://drive.google.com/file/d/10r5pCMSn-Lr_uet89PWRJ2vVaw6T8DYY/view?usp=sharing) [[Exercise: Lists]](https://drive.google.com/file/d/1xdjetPYlMnRRBYRLD3wbU0l7jte7mkRW/view?usp=sharing) [[Exercise: Dictionaries]](https://drive.google.com/file/d/1cWENNmiT6uIncOZ-B3NegMGkT1ocpkeM/view?usp=sharing) [[Exercise: Tuples]](https://drive.google.com/file/d/1wlZkdZ41UOrIrPOyO97V0QIGDSoSPIGz/view?usp=sharing) [[Exercise: IF,FOR, and While]](https://drive.google.com/file/d/1_A8Fi7qVS1wYSOHKnBdIwuhAZMqSkyKf/view?usp=sharing) [[Exercise: Numpy]](https://drive.google.com/file/d/1dyWqkvfsNz6y7pGeoC4hdkshnaJ7U80p/view?usp=sharing)
 
 * Background knowledge review: [math review]
-
-##  Break
-The coffee break over the four days will always be from 10:30AM to 11:00AM.
-
-## Syllabus
-
-* We will go through the following content in 5 days. We will use [[google colab]](https://colab.research.google.com/) as a platform for exercises.
-
-* NOTE 1: for each colab file below, you should make a copy in your own google drive to edit & run.
-
-* NOTE 2: some questions are “optional”—you are suggested but not required to do.
 
 
 ## Day 1: July 30th, 2023
