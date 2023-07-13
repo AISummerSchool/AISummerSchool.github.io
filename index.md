@@ -11,8 +11,9 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Supervised learning: logistic regression and multi-class classification 
 * Practical: Implementing a simple classification algorithm using PyTorch
 * Introduction to neural networks
+* Multi layer perceptrons
+* Activation functions
 * Feedforward neural networks and backpropagation
-* Regularization techniques: L1, L2, dropout, and batch normalization
 * Practical: Building a deep neural network for image classification using PyTorch
 * Introduction to convolutional neural networks for computer vision
 * Image representations
