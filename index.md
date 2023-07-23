@@ -51,7 +51,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 
 ## Lectures
 ### Day 1: July 31st, 2023
-* [Lecture #1: Applications of AI](https://docs.google.com/presentation/d/1LMnpF8G8BmttVlG22AAL3bpVYPjjyGuTvM67_YU_drM/edit?usp=sharing)
+* [Lecture #1: AI and Machine Learning Applications](https://docs.google.com/presentation/d/1LMnpF8G8BmttVlG22AAL3bpVYPjjyGuTvM67_YU_drM/edit?usp=sharing)
 * [Lecture #2: Regression](https://docs.google.com/presentation/d/1NWlQGnMTl_LLMUHhFIyfeeSZ2CA9GFzCtXvIlX2tHyA/edit?usp=sharing)
 * [Lecture #3: Logistic regression](https://docs.google.com/presentation/d/1U7vSdTIBkPDe7YIQahcCwMhym2THBIaj_0vzWZ_dkaQ/edit?usp=sharing)
 
