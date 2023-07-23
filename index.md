@@ -54,15 +54,21 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * [Lecture #1: AI and Machine Learning Applications](https://docs.google.com/presentation/d/1LMnpF8G8BmttVlG22AAL3bpVYPjjyGuTvM67_YU_drM/edit?usp=sharing)
 * [Lecture #2: Regression](https://docs.google.com/presentation/d/1NWlQGnMTl_LLMUHhFIyfeeSZ2CA9GFzCtXvIlX2tHyA/edit?usp=sharing)
 * [Lecture #3: Logistic regression](https://docs.google.com/presentation/d/1U7vSdTIBkPDe7YIQahcCwMhym2THBIaj_0vzWZ_dkaQ/edit?usp=sharing)
+* Exercise #1: Regression 
 
 ### Day 2: August 1st, 2023
 * [Lecture #4: Neural Networks](https://docs.google.com/presentation/d/1Hn60l775ITw2Sk7sZXSDQGPQK0dq8KX3yDw3fyA8RbQ/edit?usp=sharing)
+* Exercise #2: Logistic regression
+* Exercise #3: Neural Networks
 
 ### Day 3: August 2nd, 2023
 *  [Lecture #5: Convolutional Neural Networks (1)](https://docs.google.com/presentation/d/15YykQY2zD_vB0s3wAvQJ33XE74V-NvB9hpsUQXUfRO8/edit?usp=sharing)
+* Exercise #4: Training a ConvNetwork
 
 ### Day 4: August 3rd, 2023
 * [Lecture #6: Convolutional Neural Networks (2)](https://docs.google.com/presentation/d/1knmWdD2MzbVeA3J3sSpOuQ7mGX8B1QKbCyjWGtlRa34/edit?usp=sharing)
+* Exercise #5: Transfer learning
+* Exercise #6: Adversarial attacks
 
 ### Acknowledgement
 **Fill in the acknowledgments**
