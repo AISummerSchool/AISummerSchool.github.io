@@ -70,5 +70,4 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Exercise #5: Transfer learning
 * Exercise #6: Adversarial attacks
 
-### Acknowledgement
-**Fill in the acknowledgments**
+
