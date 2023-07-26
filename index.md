@@ -54,11 +54,11 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * [Lecture #1: AI and Machine Learning Applications](https://docs.google.com/presentation/d/1LMnpF8G8BmttVlG22AAL3bpVYPjjyGuTvM67_YU_drM/edit?usp=sharing)
 * [Lecture #2: Regression](https://docs.google.com/presentation/d/1NWlQGnMTl_LLMUHhFIyfeeSZ2CA9GFzCtXvIlX2tHyA/edit?usp=sharing)
 * [Lecture #3: Logistic regression](https://docs.google.com/presentation/d/1U7vSdTIBkPDe7YIQahcCwMhym2THBIaj_0vzWZ_dkaQ/edit?usp=sharing)
-* Exercise #1: Regression 
+* Excercise #1: [Regression](https://drive.google.com/file/d/1cA3AmNG4TgncmXv-2hNJ2xx5rjmFQX0Q/view?usp=sharing), [Solutions](https://drive.google.com/file/d/17rx8JUaOt32VQKVqzlhJjT3ILipkgFda/view?usp=sharing)
 
 ### Day 2: August 1st, 2023
 * [Lecture #4: Neural Networks](https://docs.google.com/presentation/d/1Hn60l775ITw2Sk7sZXSDQGPQK0dq8KX3yDw3fyA8RbQ/edit?usp=sharing)
-* Exercise #2: Logistic regression
+* Exercise #2: [Logistic regression](https://drive.google.com/file/d/1R9kE11F_rIgEKmr3nvKz3RNHA3m5iMpA/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1K6ebRGxZnToYWoSFoHhIM-HOuQl6AP9i/view?usp=sharing)
 * Exercise #3: Neural Networks
 
 ### Day 3: August 2nd, 2023
