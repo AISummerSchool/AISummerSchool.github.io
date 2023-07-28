@@ -9,23 +9,16 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Introduction to machine learning and its applications
 * Supervised learning: linear and nonlinear regression
 * Supervised learning: logistic regression and multi-class classification 
-* Practical: Implementing a simple classification algorithm using PyTorch
 * Introduction to neural networks
-* Multi layer perceptrons
+* Multi layer perceptrons (MLPS)
 * Activation functions
 * Feedforward neural networks and backpropagation
-* Practical: Building a deep neural network for image classification using PyTorch
 * Introduction to convolutional neural networks for computer vision
 * Image representations
 * Convolutional operators and kernels, max pooling, dense layers, depth vs width
 * Dimension calculations and parameter count
-* Practical: Implementing a training loop for and building the your first convolutional network
-* Popular datasets
-* Models zoo
-* Challenges: Transfer learning
-* Practical: Fine-tuning a pre-trained convolutional neural network for image classification using PyTorch
-* Challenges: Adversarial attacks
-* Practical: Implementing attacks on neural networks
+* Popular datasets and model zoos
+* Challenges: Transfer learning and Adversarial attacks
 
 ## Instructor
 * Dr. Adel Bibi (Email: adel.bibi@eng.ox.ac.uk)
@@ -59,7 +52,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 ### Day 2: August 1st, 2023
 * [Lecture #4: Neural Networks](https://docs.google.com/presentation/d/1Hn60l775ITw2Sk7sZXSDQGPQK0dq8KX3yDw3fyA8RbQ/edit?usp=sharing)
 * Exercise #2: [Logistic regression](https://drive.google.com/file/d/1R9kE11F_rIgEKmr3nvKz3RNHA3m5iMpA/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1K6ebRGxZnToYWoSFoHhIM-HOuQl6AP9i/view?usp=sharing)
-* Exercise #3: [Neural Networks], [Solutions](https://drive.google.com/file/d/1RYG7yt38Vep0eucSNiGdJqFZ2lyNCfae/view?usp=sharing)
+* Exercise #3: [Neural Networks](https://drive.google.com/file/d/1EKtPcfTxTcZ46JwE8YR-58FnnODw8-eB/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1RYG7yt38Vep0eucSNiGdJqFZ2lyNCfae/view?usp=sharing)
 
 ### Day 3: August 2nd, 2023
 *  [Lecture #5: Convolutional Neural Networks (1)](https://docs.google.com/presentation/d/15YykQY2zD_vB0s3wAvQJ33XE74V-NvB9hpsUQXUfRO8/edit?usp=sharing)
