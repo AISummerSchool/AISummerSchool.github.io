@@ -49,19 +49,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * [Lecture #3: Logistic regression](https://drive.google.com/file/d/16PHoP7-7iZ_UNQEg0h5oSmKPfA3QM8rM/view?usp=sharing)
 * Excercise #1: [Regression](https://drive.google.com/file/d/1XRO0TpC31WpF7dV7opbtD4Tw8hHLvtN2/view?usp=sharing), Solutions
 
-### Day 2: August 1st, 2023
-* Lecture #4: Neural Networks
-* Exercise #2: Logistic regression, Solutions
-* Exercise #3: Neural Networks, Solutions
 
-### Day 3: August 2nd, 2023
-* Lecture #5: Convolutional Neural Networks (1)
-* Exercise #4: Training a ConvNetwork
-
-### Day 4: August 3rd, 2023
-* Lecture #6: Convolutional Neural Networks (2)
-* Exercise #5: Transfer learning
-* Exercise #6: Adversarial attacks
 
 
 ## Acknowledgments
