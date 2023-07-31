@@ -49,6 +49,11 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * [Lecture #3: Logistic regression](https://drive.google.com/file/d/1byR2GSwnCRF4Myvhqcb3-SSm4Or5jbZf/view?usp=sharing)
 * Excercise #1: [Regression](https://drive.google.com/file/d/1XRO0TpC31WpF7dV7opbtD4Tw8hHLvtN2/view?usp=sharing), Solutions
 
+### Day 2: August 1st, 2023
+
+### Day 3: August 2nd, 2023
+
+### Day 4: August 3rd, 2023
 
 
 
