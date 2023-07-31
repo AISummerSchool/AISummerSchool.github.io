@@ -64,3 +64,5 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Exercise #6: Adversarial attacks
 
 
+## Acknowledgments
+Thanks to [Hasan Hammoud](https://www.linkedin.com/in/hasan-abed-al-kader-hammoud-56392a147/) for the help in preparing exercises
