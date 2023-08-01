@@ -50,6 +50,9 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Excercise #1: [Regression](https://drive.google.com/file/d/1XRO0TpC31WpF7dV7opbtD4Tw8hHLvtN2/view?usp=sharing), Solutions
 
 ### Day 2: August 1st, 2023
+* Lecture #4: [Neural Networks]
+* Exercise #2: Logistic regression
+* Exercise #3: [Neural Networks](https://drive.google.com/file/d/1EKtPcfTxTcZ46JwE8YR-58FnnODw8-eB/view?usp=sharing), Solutions
 
 ### Day 3: August 2nd, 2023
 
