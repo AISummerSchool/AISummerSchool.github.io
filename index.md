@@ -55,6 +55,8 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Exercise #3: [Neural Networks](https://drive.google.com/file/d/1EKtPcfTxTcZ46JwE8YR-58FnnODw8-eB/view?usp=sharing), Solutions
 
 ### Day 3: August 2nd, 2023
+* Lecture #5: [Convolutional Neural Networks (1)](https://drive.google.com/file/d/176MEaMWOqbliUjQHDmaFX-6t-6ZAnx4_/view?usp=sharing)
+* Exercise #4: Training a ConvNetwork
 
 ### Day 4: August 3rd, 2023
 
