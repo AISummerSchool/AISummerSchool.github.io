@@ -47,16 +47,16 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * [Lecture #1: AI and Machine Learning Applications](https://docs.google.com/presentation/d/1LMnpF8G8BmttVlG22AAL3bpVYPjjyGuTvM67_YU_drM/edit?usp=sharing)
 * [Lecture #2: Regression](https://drive.google.com/file/d/1FuLpWTSjOARHAzDuqUaF5o6ar7WsjexJ/view?usp=sharing)
 * [Lecture #3: Logistic regression](https://drive.google.com/file/d/1byR2GSwnCRF4Myvhqcb3-SSm4Or5jbZf/view?usp=sharing)
-* Excercise #1: [Regression](https://drive.google.com/file/d/1XRO0TpC31WpF7dV7opbtD4Tw8hHLvtN2/view?usp=sharing), Solutions
+* Excercise #1: [Regression](https://drive.google.com/file/d/1XRO0TpC31WpF7dV7opbtD4Tw8hHLvtN2/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1WplVL31nTY9WaU7dJ3noiBFu2DhGx4fW/view?usp=sharing)
 
 ### Day 2: August 1st, 2023
 * Lecture #4: [Neural Networks](https://drive.google.com/file/d/13wPqHde0TnY-5jXCeQh4HjYyOdPToYk9/view?usp=sharing)
 * Exercise #2: [Logistic regression](https://drive.google.com/file/d/1R9kE11F_rIgEKmr3nvKz3RNHA3m5iMpA/view?usp=sharing)
-* Exercise #3: [Neural Networks](https://drive.google.com/file/d/1EKtPcfTxTcZ46JwE8YR-58FnnODw8-eB/view?usp=sharing), Solutions
+* Exercise #3: [Neural Networks](https://drive.google.com/file/d/1EKtPcfTxTcZ46JwE8YR-58FnnODw8-eB/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1K6ebRGxZnToYWoSFoHhIM-HOuQl6AP9i/view?usp=sharing)
 
 ### Day 3: August 2nd, 2023
 * Lecture #5: [Convolutional Neural Networks (1)](https://drive.google.com/file/d/176MEaMWOqbliUjQHDmaFX-6t-6ZAnx4_/view?usp=sharing)
-* Exercise #4: [Training a ConvNetwork](https://drive.google.com/file/d/1lJKZvNdUbQbj5ZyaL9dOw3BEUhvnn8SD/view?usp=sharing)
+* Exercise #4: [Training a ConvNetwork](https://drive.google.com/file/d/1lJKZvNdUbQbj5ZyaL9dOw3BEUhvnn8SD/view?usp=sharing), Solutions
 
 ### Day 4: August 3rd, 2023
 
