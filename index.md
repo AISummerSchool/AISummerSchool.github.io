@@ -10,7 +10,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Supervised learning: linear and nonlinear regression
 * Supervised learning: logistic regression and multi-class classification 
 * Introduction to neural networks
-* Multi layer perceptrons (MLPS)
+* Multi layer perceptrons (MLPs)
 * Activation functions
 * Feedforward neural networks and backpropagation
 * Introduction to convolutional neural networks for computer vision
