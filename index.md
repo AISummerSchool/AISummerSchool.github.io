@@ -60,7 +60,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 
 ### Day 4: August 3rd, 2023
 * Lecture #6: [Convolutional Neural Networks (2)](https://drive.google.com/file/d/1pdSECiIdSeg-ABQ3GECDJDNiatHqbf8h/view?usp=sharing)
-* Exercise #5: [Transfer learning](https://drive.google.com/file/d/1jeLdYU2YYuls1fwddDZrF31n8kC8xbua/view?usp=sharing)
+* Exercise #5: [Transfer learning](https://drive.google.com/file/d/1qxZRdBY0l-u3ld4m1jZgyJdK8WrZclqj/view?usp=sharing)
 * Exercise #6: [Adversarial attacks](https://drive.google.com/file/d/17Kjn0bQkULx3OlrzwGcjpbi_RN-zUvLW/view?usp=sharing)
 
 
