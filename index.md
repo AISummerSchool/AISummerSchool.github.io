@@ -63,6 +63,8 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Exercise #5: [Transfer learning](https://drive.google.com/file/d/15_f_06WwGXxRAu5X7RC9J13ubnUSSPYw/view?usp=sharing)
 * Exercise #6: [Adversarial attacks](https://drive.google.com/file/d/1CMft1ZJQ0XHh8RIfO4AbA0Vapcnt5eTJ/view?usp=sharing)
 
-
+<!---
 ## Acknowledgments
-Thanks to [Hasan Hammoud]([https://www.linkedin.com/in/hasan-abed-al-kader-hammoud-56392a147/](https://hasanhammoud.com/)) for the help in preparing exercises
+ Thanks to [Hasan Hammoud]([https://www.linkedin.com/in/hasan-abed-al-kader-hammoud-56392a147/](https://hasanhammoud.com/)) for the help in preparing exercises
+ -- !>
+
