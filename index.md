@@ -21,8 +21,10 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Challenges: Transfer learning and Adversarial attacks
 
 ## Instructor
-* Dr. Adel Bibi (Email: adel.bibi@eng.ox.ac.uk)
+* [Dr. Adel Bibi](www.adelbibi.com) (Email: adel.bibi@eng.ox.ac.uk)
 
+## Tutorial
+* [Cornelius Emde](https://cemde.github.io/) (Email: cornelius.emde@exeter.ox.ac.uk)
 
 ##  Notes
 
@@ -39,7 +41,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 
 * Coding exercise: Python Basics [[Exercise: Numbers]](https://drive.google.com/file/d/1Dvi52KRhzs3DPfKk2S8xOoD-8Qkw_cWc/view?usp=sharing) [[Exercise: Strings]](https://drive.google.com/file/d/1W60mjg8OamaEcJUOwUSqHw-9sGsuEoRs/view?usp=sharing) [[Exercise: Lists]](https://drive.google.com/file/d/1rGgZ7PLKJlAOYCdfQYuGNum6XpLxsDJe/view?usp=sharing) [[Exercise: Dictionaries]](https://drive.google.com/file/d/1n3lnSxw95qQPgEBuETAcbBuzvP4q3AVi/view?usp=sharing) [[Exercise: Tuples]](https://drive.google.com/file/d/1ueSkcihb4pFvfO04-FUpQQLVvbklxfiA/view?usp=sharing) [[Exercise: IF,FOR, and While]](https://drive.google.com/file/d/1T9GW2bi8Tfm81-sFOt4oGS8DXyb2aJTV/view?usp=sharing) [[Exercise: Numpy]](https://drive.google.com/file/d/1ZPevA5ebIkOpRXENtGdP1QIfpLMgOy2Y/view?usp=sharing)
 
-* For background review on linear algebra and probability, try solving the following [homework](https://drive.google.com/file/d/1hbyBNTDXqEk_6YGf47K0zgwJ2z9ilPZl/view?usp=sharing)
+* For background review on linear algebra and probability, read the following [course](https://github.com/Rabbia-Hassan/Mathematics-for-Machine-Learning-and-Data-Science-Specialization-by-DeepLearning.AI)
 
 
 ## Lectures
@@ -47,19 +49,23 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * [Lecture #1: AI and Machine Learning Applications](https://docs.google.com/presentation/d/16BPOblC_rsZ63KKaONjh4sWHZofM6KIk/edit?usp=sharing&ouid=102364519369546893633&rtpof=true&sd=true)
 * [Lecture #2: Regression](https://drive.google.com/file/d/19G10uGN-lovCgKEJu7Nw7GmtbmzufsnD/view?usp=sharing)
 * [Lecture #3: Logistic regression](https://drive.google.com/file/d/1_rq6Fofle1jcJb6nr4tjKWNQf_kH_cIW/view?usp=sharing)
-* Excercise #1: [Regression](https://drive.google.com/file/d/1LhyYDZJFx_XnnOshIDM440KpCW0O2ss5/view?usp=sharing), [Solutions](https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=sharing)
+* Excercise #1: [Regression](https://drive.google.com/file/d/1LhyYDZJFx_XnnOshIDM440KpCW0O2ss5/view?usp=sharing), [Solutions]
 
 ### Day 2: August 20th, 2024
-* Lecture #4: [Neural Networks](https://drive.google.com/file/d/1Pm4sIO0KeLwQ7dayNNJl8i9oZnlgcEyp/view?usp=sharing)
-* Exercise #2: [Logistic regression](https://drive.google.com/file/d/1D5lNEsB-pfYh5OVal4Nq-hxvKHKoOlPP/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1M-ew-r4VYyQxqfG80Fn4SeroENTirVVd/view?usp=sharing)
-* Exercise #3: [Neural Networks](https://drive.google.com/file/d/193O-DetZNEzCS71Vyd4rJRB_QX99_J0j/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1JMenPClcQdNYVCxB6NvrrzH5JEFJfHQm/view?usp=sharing)
+* Lecture #4: [Neural Networks]
+* Exercise #2: [Logistic regression], [Solutions]
+* Exercise #3: [Neural Networks], [Solutions]
 
 ### Day 3: August 21st, 2024
-* Lecture #5: [Convolutional Neural Networks (1)](https://drive.google.com/file/d/1J6NWWfWpyTwA3zi--bQAk60vCYeXIrtG/view?usp=sharing)
-* Exercise #4: [Training a ConvNetwork](https://drive.google.com/file/d/1VRaL0Fk0-UJz767greK97zc0-K-3nb0T/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1iOJGqpXIqvJZWwJKSNUYkaFR1TP75k5n/view?usp=sharing)
+* Lecture #5: [Convolutional Neural Networks (1)]
+* Exercise #4: [Training a ConvNetwork], [Solutions]
+
 
 ### Day 4: August 22nd, 2024
-* Lecture #6: [Convolutional Neural Networks (2)](https://drive.google.com/file/d/1L3sgA5XvDduQ_OHPdHQMNAHsIXy205Ay/view?usp=sharing)
-* Exercise #5: [Transfer learning](https://drive.google.com/file/d/15_f_06WwGXxRAu5X7RC9J13ubnUSSPYw/view?usp=sharing)
-* Exercise #6: [Adversarial attacks](https://drive.google.com/file/d/1CMft1ZJQ0XHh8RIfO4AbA0Vapcnt5eTJ/view?usp=sharing)
+* Lecture #6: [Convolutional Neural Networks (2)]
+* Exercise #5: [Transfer learning]
+* Exercise #6: [Adversarial attacks]
 
+## Acknowledgments
+
+Thanks to [Hasan Hammoud](https://hasanhammoud.com/) for the help in preparing some exercises
