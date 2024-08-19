@@ -52,19 +52,19 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Excercise #1: [Regression](https://drive.google.com/file/d/1LhyYDZJFx_XnnOshIDM440KpCW0O2ss5/view?usp=sharing), [Solutions]
 
 ### Day 2: August 20th, 2024
-* Lecture #4: [Neural Networks]
-* Exercise #2: [Logistic regression], [Solutions]
-* Exercise #3: [Neural Networks], [Solutions]
+* Lecture #4: [Neural Networks](https://drive.google.com/file/d/1Pm4sIO0KeLwQ7dayNNJl8i9oZnlgcEyp/view?usp=sharing)
+* Exercise #2: [Logistic regression](https://drive.google.com/file/d/1D5lNEsB-pfYh5OVal4Nq-hxvKHKoOlPP/view?usp=sharing), [Solutions]
+* Exercise #3: [Neural Networks](https://drive.google.com/file/d/193O-DetZNEzCS71Vyd4rJRB_QX99_J0j/view?usp=sharing), [Solutions]
 
 ### Day 3: August 21st, 2024
 * Lecture #5: [Convolutional Neural Networks (1)]
-* Exercise #4: [Training a ConvNetwork], [Solutions]
+* Exercise #4: [Training a ConvNetwork](https://drive.google.com/file/d/1VRaL0Fk0-UJz767greK97zc0-K-3nb0T/view?usp=sharing), [Solutions]
 
 
 ### Day 4: August 22nd, 2024
 * Lecture #6: [Convolutional Neural Networks (2)]
-* Exercise #5: [Transfer learning]
-* Exercise #6: [Adversarial attacks]
+* Exercise #5: [Transfer learning](https://drive.google.com/file/d/15_f_06WwGXxRAu5X7RC9J13ubnUSSPYw/view?usp=sharing)
+* Exercise #6: [Adversarial attacks](https://drive.google.com/file/d/1CMft1ZJQ0XHh8RIfO4AbA0Vapcnt5eTJ/view?usp=sharing)
 
 ## Acknowledgments
 
