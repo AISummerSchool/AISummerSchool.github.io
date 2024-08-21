@@ -49,15 +49,15 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * [Lecture #1: AI and Machine Learning Applications](https://docs.google.com/presentation/d/16BPOblC_rsZ63KKaONjh4sWHZofM6KIk/edit?usp=sharing&ouid=102364519369546893633&rtpof=true&sd=true)
 * [Lecture #2: Regression](https://drive.google.com/file/d/19G10uGN-lovCgKEJu7Nw7GmtbmzufsnD/view?usp=sharing)
 * [Lecture #3: Logistic regression](https://drive.google.com/file/d/1_rq6Fofle1jcJb6nr4tjKWNQf_kH_cIW/view?usp=sharing)
-* Excercise #1: [Regression](https://drive.google.com/file/d/1LhyYDZJFx_XnnOshIDM440KpCW0O2ss5/view?usp=sharing), [Solutions]
+* Excercise #1: [Regression](https://drive.google.com/file/d/1LhyYDZJFx_XnnOshIDM440KpCW0O2ss5/view?usp=sharing), [Solutions](https://drive.google.com/file/d/17f8VIPAKd1yggilQlRqaqwKKw4TgTT0L/view?usp=sharing)
 
 ### Day 2: August 20th, 2024
 * Lecture #4: [Neural Networks](https://drive.google.com/file/d/1Pm4sIO0KeLwQ7dayNNJl8i9oZnlgcEyp/view?usp=sharing)
-* Exercise #2: [Logistic regression](https://drive.google.com/file/d/1D5lNEsB-pfYh5OVal4Nq-hxvKHKoOlPP/view?usp=sharing), [Solutions]
+* Exercise #2: [Logistic regression](https://drive.google.com/file/d/1D5lNEsB-pfYh5OVal4Nq-hxvKHKoOlPP/view?usp=sharing), [Solutions](https://drive.google.com/file/d/1M-ew-r4VYyQxqfG80Fn4SeroENTirVVd/view?usp=sharing)
 * Exercise #3: [Neural Networks](https://drive.google.com/file/d/193O-DetZNEzCS71Vyd4rJRB_QX99_J0j/view?usp=sharing), [Solutions]
 
 ### Day 3: August 21st, 2024
-* Lecture #5: [Convolutional Neural Networks (1)]
+* Lecture #5: [Convolutional Neural Networks (1)](https://drive.google.com/file/d/1J6NWWfWpyTwA3zi--bQAk60vCYeXIrtG/view?usp=sharing)
 * Exercise #4: [Training a ConvNetwork](https://drive.google.com/file/d/1VRaL0Fk0-UJz767greK97zc0-K-3nb0T/view?usp=sharing), [Solutions]
 
 
