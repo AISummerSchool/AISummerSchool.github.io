@@ -21,7 +21,7 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 * Challenges: Transfer learning and Adversarial attacks
 
 ## Instructor
-* [Dr. Adel Bibi](www.adelbibi.com) (Email: adel.bibi@eng.ox.ac.uk)
+* [Dr. Adel Bibi](www.adelbibi.com) (Email: adel.bibi@eng.ox.ac.uk, bibiadel93@gmail.com (preferred))
 
 ## Tutorial
 * [Cornelius Emde](https://cemde.github.io/) (Email: cornelius.emde@exeter.ox.ac.uk)
