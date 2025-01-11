@@ -64,17 +64,16 @@ The course will provide an overview of fundamental concepts and algorithms in ma
 
 ### Day 5: August 22nd, 2024
 * Lecture #6: [Convolutional Neural Networks (2)](https://docs.google.com/presentation/d/1Ebr67ZLzJ0M_IxNRk8jSyU_eUOGtNiGg/edit?usp=sharing&ouid=102364519369546893633&rtpof=true&sd=true)
+
+### Day 6: August 22nd, 2024
 * Exercise #5: [Transfer learning](https://drive.google.com/file/d/15_f_06WwGXxRAu5X7RC9J13ubnUSSPYw/view?usp=sharing)
 * Exercise #6: [Adversarial attacks](https://drive.google.com/file/d/1CMft1ZJQ0XHh8RIfO4AbA0Vapcnt5eTJ/view?usp=sharing)
 
-### Day 5: August 22nd, 2024
-
-### Day 6: August 22nd, 2024
-
 ### Day 7: August 22nd, 2024
+* Lecture #5: [LLM part 1](xx)
 
 ### Day 8: August 22nd, 2024
-
+* Lecture #5: [LLM part 2](xx)
 
 ## Acknowledgments
 
